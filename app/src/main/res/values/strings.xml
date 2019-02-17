@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tiki Assignment</string>
+    <string name="ACTION_CLOSE">Đóng</string>
+    <string name="ERROR_NETWORK_NOT_AVAILABLE">Chưa bật kết nối WIFI|3G. Vui lòng kiểm tra lại</string>
+    <string name="ERROR_SERVICE_RESPONSE_NO_ERROR_CODE">Có lỗi xảy ra, nguyên nhân có thể do : \n
+        1. Không có kết nối internet trên thiết bị. \n
+        2. Không thể khởi tạo kết nối đến máy chủ. \n
+        Hãy chắc chắn rằng thiết bị của bạn đang có kết nối đến internet.
+    </string>
+    <string name="ERROR_NETWORK_NOT_CONNECTED">Không có kết nối internet. Vui lòng kiểm tra lại</string>
+    <string name="ERROR_TIMEOUT">Hết thời gian kết nối. Vui lòng thử lại sau</string>
+    <string name="SERVER_NETWORK_DISCONNECTED">Không thể kết nối đến máy chủ, vui lòng thử lại sau</string>
+    <string name="TEXT_HOT_KEYWORD">Từ khóa hot</string>
+</resources>
